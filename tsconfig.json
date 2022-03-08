@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "none",
+        "noLib": true,
+        "types": [
+            "types-for-adobe/InDesign/2015.3"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
